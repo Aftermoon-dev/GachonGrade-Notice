@@ -1,0 +1,11 @@
+'가천 Grade' 애플리케이션은 학교에 등록된 정보를 수집, 저장하지 않습니다.
+학교에 등록된 정보에 대해서는 아래 방침을 참조하십시오.
+가천대학교 개인정보처리방침 : https://www.gachon.ac.kr/site/info_protection.jsp
+
+'가천 Grade' 애플리케이션은 오류 해결을 위해 'Firebase Crashlytics'를 통해 개별 사용자를 인식할 수 없는 아래 데이터를 수집합니다.
+ - 기기 정보 (모델명, 브랜드, 운영체제 버전, 방향, 여유 RAM, 디스크 여유 공간, 루팅 여부)
+ - 비정상 종료 정보 (날짜, 앱 버전, 에러 로그)
+Firebase Crashlytics 관련 데이터 처리 약관 : https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms
+Crashlytics로 수집된 데이터는 오류 수정 이외의 용도로는 사용되지 않습니다.
+
+문의사항 : ddol0225@gmail.com
